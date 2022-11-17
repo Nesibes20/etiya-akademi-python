@@ -34,7 +34,7 @@ print(2 >= 2) #true
 
 print(20%2==0) #20 sayısı 2 ye tam olarak bölündüğünden kalan olarak 0 verdiği için sonuç olarak True değerini verir.
 
-#string fomksiyonları
+#string fonksiyonları
 text = "Merhaba Etiya"
 print(text.upper())
 print(text.lower())
